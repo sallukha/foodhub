@@ -1,0 +1,15 @@
+.hero {
+  background-image: url(../assets/hero__1.webp);
+  background-position: center;
+  background-size: cover;
+}
+.hero1 {
+  background-image: url(../assets/hero__2.webp);
+  background-position: center;
+  background-size: cover;
+}
+.hero2 {
+  background-image: url(../assets/hero__3.webp);
+  background-position: center;
+  background-size: cover;
+}
